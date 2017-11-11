@@ -1,6 +1,5 @@
-import de.sciss.synth.Ops._
-import de.sciss.synth._
-import de.sciss.synth.ugen._
+import de.sciss.synth, synth._
+import Ops._, ugen._
 
 object Main {
   def main(args: Array[String]): Unit = {
